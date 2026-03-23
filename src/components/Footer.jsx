@@ -13,7 +13,7 @@ const Footer = () => {
   };
 
   const socialLinks = [
-    { icon: FiGithub, href: 'https://github.com/Sarthak6126', label: 'GitHub' },
+    { icon: FiGithub, href: 'https://github.com/Sarthakberii', label: 'GitHub' },
     { icon: FiLinkedin, href: 'https://www.linkedin.com/in/sarthak-beri', label: 'LinkedIn' },
     { icon: FiMail, href: 'mailto:sarthakberi45@gmail.com', label: 'Email' }
   ];
