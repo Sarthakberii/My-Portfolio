@@ -62,7 +62,7 @@ const Contact = () => {
   ];
 
   const socialLinks = [
-    { icon: FaGithub, href: 'https://github.com/Sarthak6126', label: 'GitHub' },
+    { icon: FaGithub, href: 'https://github.com/Sarthakberii', label: 'GitHub' },
     { icon: FaLinkedin, href: 'https://www.linkedin.com/in/sarthak-beri', label: 'LinkedIn' },
     { icon: FaInstagram, href: '#', label: 'Instagram' }
   ];
