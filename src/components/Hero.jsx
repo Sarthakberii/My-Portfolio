@@ -200,7 +200,7 @@ const Hero = () => {
           variants={itemVariants}
         >
           MERN-stack developer passionate about building real-world solutions like tourism
-          platforms, event reminder systems, and restaurant websites. Let's build something
+          platforms, event reminder systems, and volunteer connect website. Let's build something
           impactful together.
         </motion.p>
 
